@@ -6,12 +6,12 @@
 
 ## Features and Functionalities
 
-### I. Account Management (10 points)
+### I. Account Management 
 - Customer registration system.
 - Login functionality for customers, administrators, and customer representatives.
 - Secure logout for all user types.
 
-### II. Browsing and Search Functionality (15 points)
+### II. Browsing and Search Functionality 
 - Advanced search for train schedules by:
   - Origin station.
   - Destination station.
@@ -24,7 +24,7 @@
   - Departure time.
   - Fare.
 
-### III. Reservations (15 points)
+### III. Reservations 
 - Reservation capabilities for specific routes:
   - Round-trip or one-way journeys.
 - Special discounts for:
@@ -33,7 +33,7 @@
   - Cancel existing reservations.
   - View current and past reservations with detailed information.
 
-### IV. Administrative Functions (30 points)
+### IV. Administrative Functions 
 - Administrative account creation (predefined).
 - Manage customer representatives:
   - Add, edit, and delete information.
@@ -49,7 +49,7 @@
   - Best customer.
   - Top 5 most active transit lines.
 
-### V. Customer Representative Functions (30 points)
+### V. Customer Representative Functions 
 - Train schedule management:
   - Edit and delete train schedule information.
 - Interactive Q&A system:
