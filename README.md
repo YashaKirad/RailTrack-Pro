@@ -98,9 +98,3 @@
   - Password: `admin123`
 
 ---
-
-## Description
-RailTrack Pro is a feature-rich train reservation system that enables customers, administrators, and customer representatives to manage reservations, schedules, and queries seamlessly. Built with Java, SQL, and modern web technologies, it ensures secure account management, advanced search capabilities, and comprehensive reporting tools.
-
----
-
